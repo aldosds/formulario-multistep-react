@@ -20,6 +20,8 @@
 
   & svg {
     margin-left: 5px;
+    font-size: 1.4rem;
+    fill: #7076f4;
   }
 
   & span {
